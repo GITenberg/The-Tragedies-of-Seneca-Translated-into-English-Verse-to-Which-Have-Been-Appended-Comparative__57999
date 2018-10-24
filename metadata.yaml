@@ -1,5 +1,8 @@
 _repo: The-Tragedies-of-Seneca-Translated-into-English-Verse-to-Which-Have-Been-Appended-Comparative__57999
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Seneca, Lucius Annaeus
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1308
     wikipedia: http://en.wikipedia.org/wiki/Seneca_the_Younger
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57999#The-Tragedies-of-Seneca-Translated-into-English-Verse-to-Which-Have-Been-Appended-Comparative_
 gutenberg_issued: '2018-10-03'
 gutenberg_type: Text
 identifiers:
